@@ -1,0 +1,6 @@
+.weekList {
+    list-style-type: none;
+    padding: 0;
+    border-radius: var(--secondary-border-radius);
+    background-color: var(--bg-color--card);
+}

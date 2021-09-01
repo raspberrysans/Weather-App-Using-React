@@ -1,0 +1,13 @@
+.heading {
+    padding: 2rem;
+    text-align: center !important;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+.light {
+    font-weight: 100;
+}
+.raspberry { 
+    color: #ff69b4;
+}

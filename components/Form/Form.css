@@ -1,0 +1,45 @@
+.textheading{
+    color: #7a7792;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    letter-spacing: -3px;
+    font-style:italic;
+    text-align: center;
+    
+}
+.textheading:hover{
+    color: #ff69b4;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    
+}
+
+.input {
+    border-radius: 7px;
+    margin-bottom:2rem;
+    width: 100%;
+    height: 38px;
+    text-align: center;
+    border-width: 1px;
+
+}
+
+.button {
+    border: none;
+    border-radius: var(--main-border-radius) !important;
+    padding: 0.65rem;
+    background-image: var(--gradient);
+    color: var(--main-text-color);
+    font-weight: 700;
+    box-shadow: 0 0 30px -5px #929191;
+    cursor: pointer;
+    line-height: initial;
+    width: 100%;
+    height: 38px;
+
+}
+
+.button:hover {
+    color: var(--main-text-color);
+    -webkit-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    transform: scale(0.95);
+}
